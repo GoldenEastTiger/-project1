@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+
+<Resource password="1234" 
+username="root" 
+url="jdbc:mysql://localhost:3306/jspdb3" 
+driverClassName="com.mysql.jdbc.Driver"
+ type="javax.sql.DataSource" 
+ auth="Container" 
+ name="jdbc/MysqlDB"/>
+
+</Context>
